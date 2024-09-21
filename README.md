@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumar77-ch" alt="saikumar77-ch" /></a> </p>
 
-- 🌱 I’m currently learning **Sring Boot , MicroServices**
+- 🌱 I’m currently learning **Spring Boot , MicroServices**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
